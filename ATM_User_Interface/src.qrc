@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/gold.png</file>
+        <file>css/default.css</file>
+        <file>Image/preview.jpg</file>
+        <file>Image/user.png</file>
+        <file>Image/key.png</file>
+        <file>Image/return.png</file>
+        <file>Image/balance.png</file>
+        <file>Image/cancel.png</file>
+        <file>Image/guidance4.png</file>
+        <file>Image/laji.png</file>
+        <file>Image/Unauthorized.png</file>
+        <file>Image/saving money.png</file>
+        <file>Image/background.jpg</file>
+        <file>Image/inquire.png</file>
+        <file>Image/cash.png</file>
+        <file>Image/close.png</file>
+        <file>Image/Moneybox.png</file>
+        <file>Image/transfer.png</file>
+        <file>Image/admin.png</file>
+        <file>Image/load.gif</file>
+        <file>Image/doller.png</file>
+        <file>Image/eye-close.png</file>
+        <file>Image/eye-open.png</file>
+        <file>Image/luck.png</file>
+        <file>Image/id card.png</file>
+        <file>Image/arrow-down.png</file>
+    </qresource>
+</RCC>
